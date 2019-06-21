@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.ngenokevin.arbiter" version = "1.0">
+   
+   <name>Arbiter</name>
+   
+   <description>
+      Arbiter is a mobile app that lets you build a map to use for situational awareness and geospatial data collection using a smartphone or tablet 
+   </description>
+   
+   <author href = "https://ngenokevin.com" email = "kngeno.kevin@gmail.com">
+      Kevin Ng'eno
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+   
+   <icon src = "res/drawable-ldpi/icon.png" 
+      gap:platform = "android" gap:qualifier = "ldpi" />
+		
+   <icon src = "res/drawable-mdpi/icon.png" 
+      gap:platform = "android" gap:qualifier = "mdpi" />
+		
+   <icon src = "res/drawable-hdpi/icon.png" 
+      gap:platform = "android" gap:qualifier = "hdpi" />
+		
+   <icon src = "res/drawable-xhdpi/icon.png" 
+      gap:platform = "android" gap:qualifier = "xhdpi" />
+		
+   <icon src = "res/drawable-xxhdpi/icon.png" 
+      gap:platform = "android" gap:qualifier = "xxhdpi" />
+   
+</widget>
