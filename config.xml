@@ -5,7 +5,7 @@
         Arbiter is a mobile app that lets you build a map to use for situational awareness and geospatial data collection using a smartphone or tablet 
     </description>
     <author email="kngeno.kevin@gmail.com" href="https://ngenokevin.com">
-        Kevin Ng'eno
+        Kevin Ng'eno - GIS Developer
     </author>
     <content src="index.html" />
     <feature name="Geolocation">
